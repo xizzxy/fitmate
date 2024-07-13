@@ -51,13 +51,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+
 </details>
 
 <!-- ABOUT THE PROJECT -->
@@ -74,10 +68,10 @@ virtual personal gym trainer based on computer vision and machine learning techn
 
 Major Technologies Used in this project are:
 
-- [![Flask][Flask.com]][Flask-url]
-- [![Mediapipe][Mediapipe.com]][Mediapipe-url]
-- [![OpenCV][OpenCV.com]][OpenCV-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- Flask
+- Mediapipe
+- OpenCV
+- Bootstrap
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
