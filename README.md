@@ -34,14 +34,6 @@
 
   <h3 align="center">FitMate - A Virtual Gym Trainer App</h3>
 
-  <p align="center">
-    <br />
-    ·
-    <a href="https://github.com/syedalihn/FitMate/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/syedalihn/FitMate/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
