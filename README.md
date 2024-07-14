@@ -27,7 +27,7 @@
 | <img src="https://github.com/xizzxy/fitmate/blob/main/fitmate%20hs.png" width="100%"> | <img src="https://github.com/xizzxy/fitmate/blob/main/fitmate%20ml.png" width="100%"> |
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-Virtual personal gym trainer based on computer vision and machine learning technologies. In this project, we are using Pose estimation techniques that detects the user’s exercise pose and angles and provides real-time feedback on their pose, angles, and reps, through which the user can improve their form. Gym Trainer utilizes the best-in-class pre-trained pose estimation model to distinguish a user’s pose by using pose landmarks, then evaluates the vector geometry of the posture through an activity to give valuable feedback.
+This project uses computer vision and machine learning to create a virtual personal gym trainer. It detects your exercise poses and angles and gives real-time feedback to help you improve your form, angles, and repetitions. The web app offers a variety of workouts that you can select, and it tracks your sets and performance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,8 +47,9 @@ Virtual personal gym trainer based on computer vision and machine learning techn
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-virtual personal gym trainer based on computer vision and machine learning technologies. In this project, we are using Pose estimation techniques that detects the user’s exercise pose and angles and provides real time feedback of his Pose, angles and reps. Through which user can improve their form. Gym Trainer utilizes the best in class pre-trained pose estimation model to distinguish a user’s pose by using pose landmarks, then evaluates the vector geometry of the posture through an activity to give valuable feedback.
+This project uses computer vision and machine learning to create a virtual gym trainer. It can detect your exercise poses and angles, giving you real-time feedback to help you improve your form and track your reps.
 
+The Gym Trainer uses a powerful pose estimation model to identify your poses and evaluate your posture, providing helpful feedback to enhance your workouts.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
