@@ -18,6 +18,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+| HomePage               | Endpoints               |
+| ---------------------- | ---------------------- |
+| <img src="[https://user-images.githubusercontent.com/52163667/177003388-5d2bdb6c-b1da-4cb2-8935-65e82d445b7f.png](https://github.com/xizzxy/fitmate/blob/main/fitmate%20hs.png)" width="100%"> | <img src="[https://github.com/syedalihn/FitMate/assets/52163667/9d9e9d42-5aa5-4ec8-9ede-d1d0e3b79286](https://github.com/xizzxy/fitmate/blob/main/fitmate%20ml.png)" width="100%"> |
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+
+virtual personal gym trainer based on computer vision and machine learning technologies. In this project, we are using Pose estimation techniques that detects the user’s exercise pose and angles and provides real time feedback of his Pose, angles and reps. Through which user can improve their form. Gym Trainer utilizes the best in class pre-trained pose estimation model to distinguish a user’s pose by using pose landmarks, then evaluates the vector geometry of the posture through an activity to give valuable feedback.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
