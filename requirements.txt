@@ -15,7 +15,7 @@ Jinja2==3.0.3
 kiwisolver==1.4.2
 MarkupSafe==2.1.0
 matplotlib==3.5.1
-mediapipe==0.10.14  # Updated version
+mediapipe==0.10.14
 mysql-connector-python==8.0.29
 numpy==1.22.3
 opencv-contrib-python==4.5.5.64
@@ -24,7 +24,7 @@ packaging==21.3
 Pillow==9.0.1
 pipenv==2022.1.8
 platformdirs==2.5.1
-protobuf==3.19.4
+protobuf==4.25.3  # Updated version
 pyparsing==3.0.7
 python-dateutil==2.8.2
 six==1.16.0
