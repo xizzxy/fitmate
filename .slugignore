@@ -1,3 +1,11 @@
 fitmate ml.png
 fitmate hs.png
 README.md
+LICENSE
+.DS_Store
+.github/
+.env
+Pipfile
+Pipfile.lock
+*.ipynb
+tests/
